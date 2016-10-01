@@ -1,0 +1,6 @@
+framework module Pods__249N {
+  umbrella header "Pods--249N-umbrella.h"
+
+  export *
+  module * { export * }
+}
